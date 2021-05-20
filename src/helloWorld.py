@@ -1,4 +1,4 @@
-"""This is a very simple helloWorld python script"""
+"""This is a very simple helloWorld python scripts"""
 def helloWorld( msg ):
     """
     This is a simple function that prints a message
